@@ -6,7 +6,7 @@ import store from './store';
 
 import './index.css';
 
-import App from './Login';
+import App from './Pages/Login';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
